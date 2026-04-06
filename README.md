@@ -35,7 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-Create a .env file which Contains
+## Create a .env file which Contains
 
 ```bash
 DATABASE_URL="database URL"
